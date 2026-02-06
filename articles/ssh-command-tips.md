@@ -6,7 +6,9 @@ topics: ["memo", "SSH", "tips"]
 published: true
 ---
 
-> のちほど日本語にします
+:::message
+のちほど日本語にします
+:::
 
 - When ssh key error occurs in ssh remote, run this on local:
     

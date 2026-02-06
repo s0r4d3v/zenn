@@ -6,7 +6,9 @@ topics: ["memo", "Nix", "環境構築"]
 published: true
 ---
 
-> のちほど日本語にします
+:::message
+のちほど日本語にします
+:::
 
 ## Tools
 
