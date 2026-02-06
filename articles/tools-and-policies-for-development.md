@@ -20,7 +20,7 @@ https://github.com/s0r4d3v/dotfiles
 
 ## Tools
 
-- repositories: GitHub (jj, git)
+- repositories: [GitHub](https://github.com/s0r4d3v) (jj, git)
 - environment: Nix (Home Manager)
   - configured in Nix
     - papers: $\LaTeX$
