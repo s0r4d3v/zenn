@@ -2,7 +2,7 @@
 title: "Tools & Policies for Development"
 emoji: "🗒️"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["memo", "nix", "環境構築"]
+topics: ["memo", "wip", "nix", "環境構築"]
 published: true
 ---
 
