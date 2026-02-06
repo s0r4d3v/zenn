@@ -24,6 +24,8 @@ published: true
     - todo: Notion
     - passwords: Bitwarden
     - browser: Google Chrome
+      - Vimium C
+      - Bitwarden
 
 ## Policies
 
