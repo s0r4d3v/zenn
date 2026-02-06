@@ -6,6 +6,8 @@ topics: ["memo", "Nix", "環境構築"]
 published: true
 ---
 
+> のちほど日本語にします
+
 ## Tools
 
 - repositories: GitHub (jj, git)
