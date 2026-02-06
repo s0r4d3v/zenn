@@ -29,5 +29,6 @@ published: true
 
 ## Policies
 
-- Keep simple & flat structure
-- Install runtime in direnv, not in Neovim
+- Keep a simple, flat structure
+- Install runtimes via direnv, not in Neovim
+- Easy to reproduce
