@@ -10,6 +10,8 @@ published: true
 のちほど日本語にします
 :::
 
+https://github.com/s0r4d3v/dotfiles
+
 ## Tools
 
 - repositories: GitHub (jj, git)
