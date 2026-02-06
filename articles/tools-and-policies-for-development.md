@@ -1,5 +1,5 @@
 ---
-title: "環境メモ"
+title: "Tools & Policies for Development"
 emoji: "🗒️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["memo", "Nix", "環境構築"]

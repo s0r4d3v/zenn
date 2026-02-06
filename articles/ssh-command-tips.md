@@ -1,5 +1,5 @@
 ---
-title: "SSH tips"
+title: "SSH Command Tips"
 emoji: "💡"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["memo", "SSH", "tips"]
