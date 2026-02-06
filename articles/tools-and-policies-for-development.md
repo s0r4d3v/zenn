@@ -10,6 +10,12 @@ published: true
 のちほど日本語にします
 :::
 
+:::message
+### TODO
+- 各ツール選定の理由を追加
+- 必要に応じて config details なども追加
+:::
+
 https://github.com/s0r4d3v/dotfiles
 
 ## Tools
